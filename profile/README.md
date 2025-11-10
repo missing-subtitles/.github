@@ -9,7 +9,7 @@
 <!--- 作为重要的“**遗失脚本**” **(The Missing Script)** 资源。-->
 <!--- 我们的目标是让不再“两眼一抹黑”，为每一个声音找到它对应的文本**灯塔 (Text Beacon)**。-->
 
-## 用法
+## 获取字幕
 
 直接在 `missub.cc/` 后添加视频链接，即可前往视频对应字幕在 `missing-subtitles/archive` 的存档。
 
@@ -24,6 +24,12 @@
 <!-- <img src="/img/raw.webp" alt="" width="400"/> -->
 
 亦可直接在 [archive](https://github.com/missing-subtitles/archive) 中搜索 video ID.
+
+## 在视频中加载字幕
+
+得到的字幕文件可以直接用 [+Sub](https://github.com/plussub/plussub) 加载到 YouTube 的在线播放器中，
+
+或者用 [yt-dlp](https://github.com/yt-dlp/yt-dlp) 将原视频下载到本地，使用 vlc 等播放器播放时挂载字幕。
 
 ## 项目构成
 

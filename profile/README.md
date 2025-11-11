@@ -1,4 +1,6 @@
-# Missing Subtitles ～沧海遗注～
+# Missing Subtitles 
+
+<!--～沧海遗注～-->
 
 > 闭合字幕的最后一行。
 
@@ -39,6 +41,10 @@
 |[redirector](https://github.com/missing-subtitles/redirector)            |`missub.cc` 源代码    |
 |[mlx-whisper-demo](https://github.com/missing-subtitles/mlx-whisper-demo)|`mlx_whisper` 调用示例|
 
-## Contact curator
+## Avatar
+
+The avatar is created by HideMaru, [original here](https://www.flaticon.com/free-icon/cc_18799997).
+
+## Contact the Curator
 
 mailto: contact at missub dot cc

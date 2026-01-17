@@ -13,17 +13,19 @@
 
 ## 获取字幕
 
-直接在 `missub.cc/` 后添加视频链接，即可前往视频对应字幕在 `missing-subtitles/archive` 的存档。
+<!--- 直接在 `missub.cc/` 后添加视频链接，即可前往视频对应字幕在 `missing-subtitles/archive` 的存档。-->
 
-支持 `(www.)youtube.com` 和 `youtu.be` .
+<!--- 支持 `(www.)youtube.com` 和 `youtu.be` .-->
 
 <!-- <img src="/img/main.webp" alt="" width="400"/> -->
-<img src="https://raw.githubusercontent.com/missing-subtitles/.github/master/img/main.webp" alt="" width="400"/>
+<!--- <img src="https://raw.githubusercontent.com/missing-subtitles/.github/master/img/main.webp" alt="" width="400"/>-->
 
-如需直接访问原始文件，则使用 raw 子域名。
+<!--- 如需直接访问原始文件，则使用 raw 子域名。-->
 
-<img src="https://raw.githubusercontent.com/missing-subtitles/.github/master/img/raw.webp"  alt="" width="400"/>
+<!---<img src="https://raw.githubusercontent.com/missing-subtitles/.github/master/img/raw.webp"  alt="" width="400"/>-->
 <!-- <img src="/img/raw.webp" alt="" width="400"/> -->
+
+我们已经将一些完工的视频上传至 [YouTube 频道](https://www.youtube.com/@missing-subtitles)
 
 亦可直接在 [archive](https://github.com/missing-subtitles/archive) 中搜索 video ID.
 
